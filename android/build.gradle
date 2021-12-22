@@ -60,7 +60,7 @@ dependencies {
     implementation "com.facebook.react:react-native:${safeExtGet('reactnativeVersion', '+')}"
 
     //友盟
-    implementation  'com.umeng.umsdk:analytics:8.0.0'
+    implementation  'com.umeng.umsdk:asms:1.2.0'
     implementation  'com.umeng.umsdk:common:9.3.6'
     implementation 'com.umeng.umsdk:share-core:7.1.4'
     implementation 'com.umeng.umsdk:share-wx:7.1.4'

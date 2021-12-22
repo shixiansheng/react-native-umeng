@@ -1,6 +1,6 @@
 {
-  "name": "@shixiansheng/react-native-umeng",
-  "version": "1.7.0",
+  "name": "@wfengtech/react-native-umeng",
+  "version": "1.7.2",
   "description": "友盟",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -42,14 +42,14 @@
     "baseUrl": "https://github.com/shixiansheng/react-native-umeng"
   },
   "author": {
-    "name": "damoness",
-    "email": "qjwdcool@gmail.com"
+    "name": "wfengtech",
+    "email": "wfengtech@163.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Damoness/damoness-react-native-umeng/issues"
+    "url": "https://github.com/shixiansheng/react-native-umeng/issues"
   },
-  "homepage": "https://github.com/Damoness/damoness-react-native-umeng#readme",
+  "homepage": "https://github.com/shixiansheng/react-native-umeng#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

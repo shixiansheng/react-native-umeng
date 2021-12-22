@@ -1,11 +1,11 @@
-# @damoness/react-native-umeng
+# @shixiansheng/react-native-umeng
 
 友盟
 
 ## Installation
 
 ```sh
-yarn add @damoness/react-native-umeng
+yarn add @shixiansheng/react-native-umeng
 ```
 
 ### iOS 配置
