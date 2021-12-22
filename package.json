@@ -1,6 +1,6 @@
 {
   "name": "@wfengtech/react-native-umeng",
-  "version": "1.7.2",
+  "version": "1.7.3",
   "description": "友盟",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
