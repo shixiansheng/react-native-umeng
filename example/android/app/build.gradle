@@ -199,13 +199,13 @@ dependencies {
         exclude group:'com.facebook.flipper'
     }
 
-    //友盟
-    implementation  'com.umeng.umsdk:analytics:8.0.0'
-    implementation  'com.umeng.umsdk:common:2.0.0'
-    implementation 'com.umeng.umsdk:share-core:6.9.6'
-    implementation 'com.umeng.umsdk:share-wx:6.9.6'
-    implementation 'com.umeng.umsdk:share-qq:6.9.6'
-    implementation 'com.umeng.umsdk:share-sina:6.9.6'
+  //友盟
+  implementation  'com.umeng.umsdk:asms:1.2.3'
+  implementation  'com.umeng.umsdk:common:9.3.6'
+  implementation 'com.umeng.umsdk:share-core:7.1.4'
+  implementation 'com.umeng.umsdk:share-wx:7.1.4'
+  implementation 'com.umeng.umsdk:share-qq:7.1.4'
+  implementation 'com.umeng.umsdk:share-sina:7.1.4'
 
     if (enableHermes) {
         def hermesPath = "../../node_modules/hermes-engine/android/";

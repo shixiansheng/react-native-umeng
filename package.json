@@ -13,7 +13,7 @@
     "android",
     "ios",
     "cpp",
-    "wfeng-react-native-umeng.podspec",
+    "damoness-react-native-umeng.podspec",
     "!lib/typescript/example",
     "!android/build",
     "!ios/build",
